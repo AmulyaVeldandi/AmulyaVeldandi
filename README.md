@@ -40,7 +40,3 @@ Welcome to my GitHub! I am a **physician turned AI researcher** passionate about
 👨‍💻 **GitHub**: [github.com/amulyaveldandi](https://github.com/amulyaveldandi)  
 
 🚀 **Open to collaborations in AI for healthcare, imaging informatics, and NLP!**  
-
----
-
-This **GitHub README** is **structured, visually appealing, and highlights** your **expertise, projects, and tools** using **badges and links**. Let me know if you need any modifications! 🚀

@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-# 👩‍⚕️ Amulya Veldandi | AI & Healthcare Data Science 🚀  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amulya-veldandi)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/amulyaveldandi)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:veldandiamulya@gmail.com)  
-
----
-
-### 🏥 Physician | 🤖 AI Researcher | 📊 Healthcare Data Scientist  
+### 👩‍⚕️ Amulya Veldandi | 🏥 Physician | 🤖 AI Researcher | 📊 Healthcare Data Scientist  
 
 Welcome to my GitHub! I am a **physician turned AI researcher** passionate about **leveraging machine learning, deep learning, and NLP** to revolutionize **medical imaging and healthcare analytics**. My work focuses on **imaging informatics, radiology AI, and predictive modeling** for clinical applications.
 
@@ -35,8 +27,8 @@ Welcome to my GitHub! I am a **physician turned AI researcher** passionate about
 ---
 
 ## 📫 Connect with Me  
-📧 **Email**: veldandiamulya@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/amulya-veldandi](https://linkedin.com/in/amulya-veldandi)  
-👨‍💻 **GitHub**: [github.com/amulyaveldandi](https://github.com/amulyaveldandi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amulya-veldandi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/amulyaveldandi)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:veldandiamulya@gmail.com)   
 
 🚀 **Open to collaborations in AI for healthcare, imaging informatics, and NLP!**  

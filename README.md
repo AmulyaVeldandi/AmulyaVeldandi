@@ -1,8 +1,22 @@
-## Hi there 👋
+# Hi there! 👋  
 
-### 👩‍⚕️ Amulya Veldandi | 🏥 Physician | 🤖 AI Researcher | 📊 Healthcare Data Scientist  
+## 👩‍⚕️ Amulya Veldandi | 🏥 Physician | 🤖 AI Researcher | 📊 Healthcare Data Scientist  
 
-Welcome to my GitHub! I am a **physician turned AI researcher** passionate about **leveraging machine learning, deep learning, and NLP** to revolutionize **medical imaging and healthcare analytics**. My work focuses on **imaging informatics, radiology AI, and predictive modeling** for clinical applications.
+🔬 **Doctor by training, data scientist by passion.** I bridge the gap between **medicine and AI**, using machine learning, deep learning, and NLP to push the boundaries of **medical imaging and healthcare analytics**. My work is driven by a mission: **Transform data into decisions, pixels into diagnoses, and AI into impact.**  
+
+---
+
+### 🚀 **What I Do**
+🔹 **Imaging Informatics** – AI-powered radiology solutions for precision diagnostics  
+🔹 **AI in Healthcare** – Predictive modeling for patient outcomes and clinical decision support  
+🔹 **Biomedical Data Science** – Analyzing complex medical datasets to uncover insights  
+
+---
+
+### 🛠 **Tech Arsenal**
+💻 Python | SQL | R | Docker  
+🧠 PyTorch | TensorFlow | MONAI | Hugging Face  
+📊 Pandas | Scikit-learn | Data Visualization  
 
 ---
 
@@ -31,4 +45,6 @@ Welcome to my GitHub! I am a **physician turned AI researcher** passionate about
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/amulyaveldandi)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:veldandiamulya@gmail.com)   
 
-🚀 **Open to collaborations in AI for healthcare, imaging informatics, and NLP!**  
+💡 **"The future of medicine is digital, and I’m here to build it."**  
+🚀 Let’s collaborate and make AI-driven healthcare a reality!  
+

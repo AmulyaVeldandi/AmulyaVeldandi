@@ -13,13 +13,6 @@
 
 ---
 
-### 🛠 **Tech Arsenal**
-💻 Python | SQL | R | Docker  
-🧠 PyTorch | TensorFlow | MONAI | Hugging Face  
-📊 Pandas | Scikit-learn | Data Visualization  
-
----
-
 ## 🔥 Technical Skills & Tools  
 
 ### **Programming & Machine Learning**  

@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-## 👩‍⚕️ Amulya Veldandi, MBBS, MS Health Informatics |📊 Healthcare Data Scientist | 🏥 Physician 
+## 👩‍⚕️ Amulya Veldandi, MBBS, MSHI |📊 Healthcare Data Scientist | 🏥 Physician 
 
 🔬 **Doctor by training, data scientist by passion.** I bridge the gap between **medicine and AI**, using machine learning, deep learning, and NLP to push the boundaries of **medical imaging and healthcare analytics**. My work is driven by a mission: **Transform data into decisions, pixels into diagnoses, and AI into impact.**  
 

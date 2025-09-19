@@ -1,7 +1,7 @@
-# 👩‍⚕️ Amulya Veldandi, MBBS, MSHI  
+# Amulya Veldandi, MBBS, MSHI  
 **Healthcare Data Scientist | Physician | AI Scientist**  
 
-As a **physician with advanced training in health informatics**, I have worked across the full spectrum of AI in medicine — from **clinical usability studies and workflow evaluation**, to **designing and training machine learning models**, and now **deploying AI solutions into real-world clinical environments**.  
+As a **physician with advanced training in health informatics**, I have worked across the full spectrum of AI in medicine, from **clinical usability studies and workflow evaluation**, to **designing and training machine learning models**, and now **deploying AI solutions into real-world clinical environments**.  
 
 My portfolio reflects both **clinical relevance** and **technical depth**:  
 - **Imaging AI** – segmentation and quantitative analysis of MRI/CT for radiology workflows  
@@ -20,16 +20,16 @@ By approaching problems through the lens of both a **clinician and an AI scienti
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 **Python | R | SQL | PyTorch | TensorFlow | AWS | Docker | Git | 3D Slicer | OpenCV**  
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amulya-veldandi)  
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/amulya-veldandi-104242261)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/amulyaveldandi)  
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:veldandiamulya@gmail.com)  
 
 ---
 
-✨ **“From clinical problem to AI deployment — I engineer solutions that make medicine smarter, faster, and more precise.”**  
+**“From clinical problem to AI deployment — I engineer solutions that make medicine smarter, faster, and more precise.”**  

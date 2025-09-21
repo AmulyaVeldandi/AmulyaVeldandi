@@ -12,23 +12,13 @@ By approaching problems through the lens of both a **clinician and an AI scienti
 
 ---
 
-## Areas of Focus
-- **Imaging Informatics** – AI/ML for radiology, quantitative imaging pipelines  
-- **Healthcare AI** – predictive analytics, NLP for EHR data, decision-support tools  
-- **Biomedical Data Science** – multimodal dataset integration, statistical and outcome modeling  
-- **Clinical Informatics** – FHIR/HL7 integration, clinical coding standards, EHR analytics  
-
----
-
 ## Technical Toolkit
 **Python | R | SQL | PyTorch | TensorFlow | AWS | Docker | Git | 3D Slicer | OpenCV**  
 
 ---
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/amulya-veldandi-104242261)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/amulyaveldandi)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:veldandiamulya@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/amulya-veldandi-104242261)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/amulyaveldandi)  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:veldandiamulya@gmail.com)  
 
 ---
 
